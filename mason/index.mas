@@ -15,9 +15,10 @@ $show_accept_dialog => undef
 <tr>
 <td colspan="2">
 
-
+<br /><br />
+<div class="boxbgcolor5">
 Welcome to BatataBase!
-
+</div>
 
 </td>
 </tr>
