@@ -5,16 +5,58 @@
 </%init>
 
 
+<!-- LOAD WORKING MODAL AND LIST MODAL AT END SO THAT THEY ALWAYS APPEAR ON TOP -->
+<& /site/list.mas &>
 
-<br /><br />
-<!-- BEGIN FOOTER-->
+<div class="modal fade" id="working_modal" name="working_modal" tabindex="-1" role="dialog" aria-labelledby="workingModalDialog" data-controls-modal="your_div_id" data-backdrop="static" data-keyboard="false" href="#">
+  <div class="modal-dialog modal-sm" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+	<center>
+        <h4 class="modal-title" id="workingModalDialog">Working</h4>
+	</center>
+      </div>
+      <div class="modal-body">
+        <div class="container-fluid">
+	  <center>
+	  <img src="/img/wheel.gif" />
+    	  <div id="working_msg"></div>
+	  </center>
+        </div>
+      </div>
+      <div class="modal-footer">
+      </div>
+    </div>
+  </div>
+</div>
 
-<hr>
+<!-- END CONTENT WRAPPER -->
 
-SweetPotatoBase is located at the <a href="http://bti.cornell.edu">Boyce Thompson Institute</a>.
+      </div>
+      <div class="col-sm-1 col-md-1 col-lg-1">
+      </div>
+    </div>
+  </div>
 
+<!-- BEGIN FOOTER -->
 
-</td></tr></table>
-   <!-- Google Analytics Code -->
-   <!-- Google Analytics Code moved to header -->
+<br/><br/>
+<div class="navbar navbar-default" style="border-style:solid; border-width:1px; border-color:#e7e7e7; margin-bottom:0px;">
+   
+  <br/>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
+      </div>
 
+      <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+        SweetPotatoBase is located at the <a href="http://bti.cornell.edu/" class="footer" >Boyce Thompson Institute  for Plant Research</a>.
+      </div>
+
+      <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
