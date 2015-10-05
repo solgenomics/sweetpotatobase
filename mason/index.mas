@@ -4,11 +4,7 @@ $static_content_path => undef
 $show_accept_dialog => undef
 </%args>
 
-<center>
-<br/><br/>
-<& homepage/iconmenu.mas &>
-<br/><br/>
-</center>
+<& homepage/carousel.mas &>
 
 <!--
 <div class="container-fluid">
