@@ -10,12 +10,6 @@
   margin-bottom:0px;
 }
 
-.carousel-indicators:after {
-display:block;
-content: '\A Photos courtesy of the International Potato Center (CIP).';
-color: #fff;
-}
-
 .carousel-sgn-caption { 
   position:relative;
   float: left;
@@ -128,19 +122,16 @@ color: #fff;
   <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
     <!-- Indicators -->
     <div class="carousel-controls">
-    <a class="left carousel-control" href="#slideshow" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-    </a>
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
       <li data-target="#myCarousel" data-slide-to="1"></li>
       <li data-target="#myCarousel" data-slide-to="2"></li>
       <li data-target="#myCarousel" data-slide-to="3"></li>
       <li data-target="#myCarousel" data-slide-to="4"></li>
+      <br>
+      <a href="https://www.flickr.com/photos/106872707@N03/" style="color:#fff; font-style:italic">Photos courtesy of the International Potato Center (CIP). </a>
+      <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" style="color:#fff; font-style:italic">CC BY</a>
     </ol>
-        <a class="right carousel-control" href="#slideshow" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-    </a>
     </div>
 
     <!-- Wrapper for slides -->
