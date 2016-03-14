@@ -42,7 +42,7 @@
 
 <br/><br/>
 <div class="navbar navbar-default" style="border-style:solid; border-width:1px; border-color:#e7e7e7; margin-bottom:0px;">
-   
+
   <br/>
   <div class="container-fluid">
     <div class="row">
@@ -50,8 +50,10 @@
       </div>
 
       <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
-        SweetPotatoBase is located at the <a href="http://bti.cornell.edu/" class="footer" >Boyce Thompson Institute  for Plant Research</a> and is part of the <a href="http://sweetpotatogenomics.cals.ncsu.edu">GT4SP</a> project.
-      </div>
+				<center>
+        	SweetPotatoBase is located at the <a href="http://bti.cornell.edu/" class="footer" >Boyce Thompson Institute  for Plant Research</a> and is part of the <a href="http://sweetpotatogenomics.cals.ncsu.edu">GT4SP</a> project.
+				</center>
+			</div>
 
       <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
       </div>
