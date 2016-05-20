@@ -26,7 +26,7 @@
               <li><a href="/breeders/search">Use the Search Wizard</a></li>
                 <li><a href="/search/trials">Search Trials</a></li>
 		<li><a href="/search/stocks">Search Accessions and Plots</a></li>
-		<li><a href="/search/images">Search Images</a></li>		
+		<li><a href="/search/images">Search Images</a></li>
 		<li><a href="/search/people">Search People</a></li>
             </ul>
           </div>
@@ -97,7 +97,7 @@
             <h3><a>GT4SP Project News</a></h3>
             <p><a target="_blank">Progress in bringing genomic tools to sweetpotato breeding</a></p>
         </div>
-        
+
         <div class="carousel-sgn-links">
           <ul class="sgn_sm_list">
             <li><a href="https://news.ncsu.edu/2014/09/nc-state-receives-sweet-potato-grant">NC State Announcement</a></li>
@@ -105,7 +105,7 @@
               <li><a>Project Overview (ppt)</a></li>
           </ul>
         </div>
-        
+
         </div>
       </div>
 
@@ -113,7 +113,7 @@
       <div class="item">
         <div style="background:url(/documents/img/sweetpotatobase/homepage_carousel/6.jpg) center center; background-size:cover;" class="slider-size">
           <div class="carousel-sgn-caption">
-              <h3><a href="http://www.slideshare.net/solgenomics">SGN Slideshare</a></h3>
+              <h3><a href="http://www.slideshare.net/solgenomics">Slideshare</a></h3>
             <p><a href="http://www.slideshare.net/solgenomics" target="_blank">Slides from conferences and courses</a></p>
           </div>
 
@@ -130,7 +130,7 @@
       </div>
 
     </div><!-- Wrapper for slides end-->
-    
+
   <div class="progress" style="height:5px">
     <hr class="transition-timer-carousel-progress-bar" />
   </div>
@@ -148,12 +148,12 @@
 </div>
 
 <ul id="btn_carousel_indicators" class="nav nav-pills nav-justified sgn_carousel_button_group">
-  <li class="active"><a data-target="#myCarousel" data-slide-to="0">Sweetpotato</a></li>
-  <li><a data-target="#myCarousel" data-slide-to="1">Flowering</a></li>
-  <li><a data-target="#myCarousel" data-slide-to="2">Phenotyping</a></li>
-  <li><a data-target="#myCarousel" data-slide-to="3">Tissue Culture</a></li>
-  <li><a data-target="#myCarousel" data-slide-to="4">Group Photo</a></li>
-  <li><a data-target="#myCarousel" data-slide-to="5">SGN Slideshare</a></li>
+  <li class="active"><a data-target="#myCarousel" data-slide-to="0">Search</a></li>
+  <li><a data-target="#myCarousel" data-slide-to="1">Breeding Tools</a></li>
+  <li><a data-target="#myCarousel" data-slide-to="2">Phenotypes</a></li>
+  <li><a data-target="#myCarousel" data-slide-to="3">Genotypes</a></li>
+  <li><a data-target="#myCarousel" data-slide-to="4">GT4SP Project</a></li>
+  <li><a data-target="#myCarousel" data-slide-to="5">Slideshare</a></li>
 </ul>
 
 <style>
@@ -180,7 +180,7 @@
 	  min-width:35%;
 	  padding: 0px 10px 0px 10px;
 	  margin-top:20px;
-	  
+
     	  color: #444;
 	  font-size: 16px;
 	  text-align: left;
@@ -267,7 +267,7 @@
       float: none;
       margin-bottom:0px;
       opacity: 0.90;
-      
+
     }
 
     .carousel-sgn-links {
@@ -277,7 +277,7 @@
       border-radius:0px;
       bottom:0px;
       opacity: 0.9;
-      
+
     }
 
   	.carousel-sgn-links ul {
@@ -326,7 +326,7 @@
 		height:100px;
 		margin-top:170px
 	}
-  
+
   .transition-timer-carousel-progress-bar {
       height: 4px;
       background-color: #337ab7;
@@ -337,12 +337,12 @@
       position: relative;
       border-radius: 0px;
   }
-  
+
   .progress {
     margin-top: 5px;
     border-radius: 0px;
   }
-  
+
 </style>
 
 <!--
@@ -408,10 +408,10 @@
 		// $("#myCarousel").swipeleft(function() {
 		//       $("#myCarousel").carousel('next');
 		//     });
-       
-    
-    
-    
+
+
+
+
   //progress bar
   var percent = 0,
   	interval = 50,//time showing each slide
@@ -422,7 +422,7 @@
       interval: false,
       pause: true
     }).on('slide.bs.carousel', function (){percent = 0;});//restart progress bar on new slide
-    
+
   	function progressBarCarousel() {
       $bar.css({width:percent+'%'});
   		percent = percent +0.5;
@@ -441,10 +441,10 @@
           }
       );
     }
-    
-    
-    
-    
+
+
+
+
     $(".ui-loading").css("display","none");
     $(".ui-loader").css("display","none");
   });
