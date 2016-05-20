@@ -1,18 +1,18 @@
 <li class="dropdown"><a class="menu_click_dropdown dropdown-toggle" data-toggle="dropdown" href="/about/">About</a>
 <!-- <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">About Us<span class="caret"></span></a> -->
   <ul class="dropdown-menu">
-    <li class="disabled"><a href="/about">About SweetPotatoBase</a></li>
-    <li><a href="/contact/form">Contact</a></li>
+    <li class="dropdown-header">Links</li>
+    <li><a href="https://sweetpotatogenomics.cals.ncsu.edu/">GT4SP Website</a></li>
+    <li><a href="https://twitter.com/TeamGT4SP">GT4SP Twitter</a></li>
+    <li><a href="https://sweetpotatogenomics.cals.ncsu.edu/about/">About GT4SP Project</a></li>
 
     <li role="separator" class="divider"></li>
-    <li><a href="https://docs.google.com/document/d/1ZJjxsarGqGTv4HgJTt-EodOoaEmJ3lgSeV0Qq_YKJaY/edit" class="footer">Manual</a></li>
-    <li><a href="/help/index.pl">Help</a></li>
-    <li><a href="/help/faq.pl">FAQ</a></li>
+    <li class="dropdown-header">Resources</li>
+    <li><a href="/contact/form">Contact Us</a></li>
+    <li><a href="https://docs.google.com/document/d/1ZJjxsarGqGTv4HgJTt-EodOoaEmJ3lgSeV0Qq_YKJaY/edit" class="footer">Manual (Cassavabase)</a></li>
+    <li><a href="/help/index.pl">Help (Cassavabase)</a></li>
     <li><a href="/forum/topics.pl">Forum</a></li>
+    <li><a href="/help/faq.pl">FAQ</a></li>
 
-    <li role="separator" class="divider"></li>
-
-    <li><a href="https://twitter.com/TeamGT4SP">Twitter</a></li>
-    <li class="disabled"><a href="https://www.facebook.com/solgenomics">Facebook</a></li>
   </ul>
 </li>
