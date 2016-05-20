@@ -8,7 +8,6 @@
       <li data-target="#myCarousel" data-slide-to="3"></li>
       <li data-target="#myCarousel" data-slide-to="4"></li>
       <li data-target="#myCarousel" data-slide-to="5"></li>
-      <li data-target="#myCarousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Wrapper for slides -->
@@ -130,73 +129,6 @@
         </div>
       </div>
 
-      <!-- <div class="item">
-          <div style="background:url(/documents/img/homepage_carousel/carousel_slideshare.png) center center; background-size:cover;" class="slider-size">
-            <div class="carousel-sgn-caption">
-              <a href="http://www.slideshare.net/solgenomics" target="_blank">
-                <h3>SGN SlideShare</h3>
-                <p>Slides from conferences and courses</p>
-              </a>
-            </div>
-
-            <div class="carousel-sgn-links">
-              <ul class="sgn_sm_list">
-                <a href="http://www.slideshare.net/solgenomics/sol-meeting-2015-sgn-workshop-introduction?related=1" target="_blank"><li>SOL Meeting 2015</li></a>
-                <a href="http://www.slideshare.net/solgenomics/sgn-introduction-to-unix-commandline-2015-part-1?related=1" target="_blank"><li>Introduction to UNIX Command-line</li></a>
-              </ul>
-            </div>
-
-          </div>
-        </a>
-      </div> 
-      
-
-      <div class="item">
-          <div style="background:url(/documents/img/homepage_carousel/sol2016.jpeg) center center; background-size:cover;" class="slider-size">
-            <div class="carousel-sgn-caption" style="opacity: 0.95; background-color: #efefef">
-              <a href="http://solgenomics2016.ucdavis.edu" target="_blank" style="color: #00426c">
-                <h3>The 13th Solanaceae Conference</h3>
-                <p><img src="/documents/img/sgn_transparent_logo.png" width="30"> September 12-16, 2016 - Davis California USA</p>
-              </a>
-            </div>
-
-            <div class="carousel-sgn-links" style="background-color: #efefef">
-              <ul class="sgn_sm_list">
-                <a href="http://solgenomics2016.ucdavis.edu/program/" target="_blank"><li style="color: #00426c">Preliminary Program</li></a>
-                <a href="http://solgenomics2016.ucdavis.edu/registration/" target="_blank"><li style="color: #00426c">Registration</li></a>
-                <a href="http://solgenomics2016.ucdavis.edu/abstract-submission/" target="_blank"><li style="color: #00426c">Abstract Submission</li></a>
-                <a href="http://solgenomics2016.ucdavis.edu/hotel-information/" target="_blank"><li style="color: #00426c">Venue Information</li></a>
-              </ul>
-            </div>
-
-          </div>
-        </a>
-      </div> -->
-
-
-
-      <!-- <div class="item">
-          <div style="background:url(/documents/img/homepage_carousel/tomato_diseases_2016.jpeg) center center; background-size:cover;" class="slider-size">
-            <div class="carousel-sgn-caption" style="opacity: 0.95">
-              <a href="http://www.tomatodiseases2016.es/web/" target="_blank">
-                <h3>5th International Symposium on Tomato Diseases</h3>
-                <p>Malaga, Spain June 13-16, 2016</p>
-              </a>
-            </div>
-
-            <div class="carousel-sgn-links">
-              <ul>
-                <li><a href="http://www.tomatodiseases2016.es/web/index.php/tentative-programme" target="_blank">Preliminary Program</a></li>
-                <li><a href="http://www.tomatodiseases2016.es/web/index.php/important-dates" target="_blank">Important Dates</a></li>
-                <li><a href="http://www.tomatodiseases2016.es/web/index.php/registration" target="_blank">Registration</a></li>
-                <li><a href="http://www.tomatodiseases2016.es/web/index.php/accommodation" target="_blank">Accomodation</a></li>
-              </ul>
-            </div>
-
-          </div>
-        </a>
-      </div> -->
-
     </div><!-- Wrapper for slides end-->
     
   <div class="progress" style="height:5px">
@@ -222,8 +154,6 @@
   <li><a data-target="#myCarousel" data-slide-to="3">Tissue Culture</a></li>
   <li><a data-target="#myCarousel" data-slide-to="4">Group Photo</a></li>
   <li><a data-target="#myCarousel" data-slide-to="5">SGN Slideshare</a></li>
- <!-- <li><a data-target="#myCarousel" data-slide-to="6">SOL Meeting</a></li>
-   <li><a data-target="#myCarousel" data-slide-to="6">5th ISTD</a></li> -->
 </ul>
 
 <style>
@@ -250,9 +180,10 @@
 	  min-width:35%;
 	  padding: 0px 10px 0px 10px;
 	  margin-top:20px;
-
-    color: #444;
+	  
+    	  color: #444;
 	  font-size: 16px;
+	  text-align: left;
 	  text-decoration: none;
 	  background-color: #fff;
 	  opacity: 0.80;
@@ -262,7 +193,7 @@
 	}
 
 	.carousel-sgn-caption a {
-    color: #444;
+          color: #444;
 	  text-decoration: none;
 	}
 
@@ -277,7 +208,7 @@
 	  max-width:49%;
 	  margin-top:20px;
 	  right:0px;
-
+	  text-align: left;
 	  color: #000;
 	  font-size: 16px;
 	  text-decoration: none;
@@ -336,6 +267,7 @@
       float: none;
       margin-bottom:0px;
       opacity: 0.90;
+      
     }
 
     .carousel-sgn-links {
@@ -345,11 +277,12 @@
       border-radius:0px;
       bottom:0px;
       opacity: 0.9;
+      
     }
 
   	.carousel-sgn-links ul {
   	  padding: 0px;
-      margin-bottom: 0px;
+          margin-bottom: 0px;
   	}
 
     .sgn_sm_list li {
@@ -364,7 +297,7 @@
 
     .sgn_sm_list li:hover {
       color: #444;
-  	  background-color: #fff;
+      background-color: #fff;
       opacity: 1;
     }
 
