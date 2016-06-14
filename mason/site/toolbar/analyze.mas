@@ -7,8 +7,14 @@
     <li><a href="/solgs/search">Genomic Selection</a></li>
 
     <li role="separator" class="divider"></li>
+    <li class="dropdown-header">Genome Browser</li>
+    <li class="disabled"><a href="#"><i>I. trifida</i> Jbrowse @MSU</a></li>
+    <li class="disabled"><a href="#"><i>I. triloba</i> Jbrowse @MSU</a></li>
+
+    <li role="separator" class="divider"></li>
     <li class="dropdown-header">Sequence Analysis</li>
     <li><a href="/tools/blast/">BLAST</a></li>
+    <li class="disabled"><a href="#">BLAST @MSU</a></li>
 
     <li role="separator" class="divider"></li>
     <li class="dropdown-header">Other</li>
