@@ -5,6 +5,7 @@
     <li><a href="/selection/index">Selection Index</a></li>
     <li><a href="http://hidap.sgn.cornell.edu/hd/">HIDAP</a></li>
     <li><a href="/solgs/search">Genomic Selection</a></li>
+    <li><a href="/accession_usage">Accession Usage</a></li>
 
     <li role="separator" class="divider"></li>
     <li class="dropdown-header">Genome Browser</li>
