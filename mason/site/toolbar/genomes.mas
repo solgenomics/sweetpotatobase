@@ -1,0 +1,13 @@
+<li class="dropdown"><a class="menu_click_dropdown dropdown-toggle" data-toggle="dropdown">Genomes</a>
+<!-- <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Genomes<span class="caret"></span></a> -->
+  <ul class="dropdown-menu">
+    <li class="dropdown-header">Genome Browser</li>
+    <li><a target="_new" href="http://sweetpotato.plantbiology.msu.edu/jbrowse_v3/?data=data%2Ftrifida&loc=Chr01%3A1..100000&tracks=repr_hc_gene_models%2Chc_gene_models&highlight="><i>I. trifida</i> v3 Jbrowse @MSU</a></li>
+    <li><a target="_new" href="http://sweetpotato.plantbiology.msu.edu/jbrowse_v3/?data=data%2Ftriloba&loc=Chr01%3A1..100000&tracks=repr_hc_gene_models%2Chc_gene_models&highlight="><i>I. triloba</i> v3 Jbrowse @MSU</a></li>
+
+    <li role="separator" class="divider"></li>
+    <li class="dropdown-header">Sequence Analysis</li>
+
+    <li><a target="_new" href="http://sweetpotato.plantbiology.msu.edu/blast.shtml">BLAST @MSU</a></li>
+  </ul>
+</li>
