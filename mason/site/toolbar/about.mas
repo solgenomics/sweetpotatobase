@@ -9,7 +9,7 @@
     <li role="separator" class="divider"></li>
     <li class="dropdown-header">Resources</li>
     <li><a href="/contact/form">Contact Us</a></li>
-    <li><a href="https://docs.google.com/document/d/1ZJjxsarGqGTv4HgJTt-EodOoaEmJ3lgSeV0Qq_YKJaY/edit" class="footer">Manual (Cassavabase)</a></li>
+    <li><a href="https://solgenomics.github.io/sgn/" class="footer">Manual</a></li>
     <li><a href="/help/index.pl">Help (Cassavabase)</a></li>
     <li><a href="/forum/topics.pl">Forum</a></li>
     <li><a href="/help/faq.pl">FAQ</a></li>
