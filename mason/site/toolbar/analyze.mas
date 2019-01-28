@@ -8,7 +8,8 @@
     <li><a href="/accession_usage">Accession Usage</a></li>
     <li><a href="/tools/trial/comparison/list">Compare Trials</a></li>
     <li><a href="/tools/graphicalfiltering">Graphical Filtering</a></li>
-    <li role="separator" class="divider"></li>
+    <li><a href="/tools/boxplotter">BoxPlotter Tool</a></li>
+<li role="separator" class="divider"></li>
     <li class="dropdown-header">Other</li>
     <li><a href="/tools/onto/">Ontology Browser</a></li>
     <li><a href="/tools/compose">Compose a New Trait</a></li>
