@@ -13,6 +13,9 @@
     <li><a href="/help/index.pl">Help (Cassavabase)</a></li>
     <li><a href="/forum/topics.pl">Forum</a></li>
     <li><a href="/help/faq.pl">FAQ</a></li>
+    <li><a href="ftp://ftp.sweetpotatobase.org/">FTP site</a></li>
+    <li><a href="https://gt4sp-genetic-map.shinyapps.io/bt_map/">Interactive BT Map</a></li>
+    <li><a href="https://gt4sp-genetic-map.shinyapps.io/offspring_haplotype_BT_population/">BT Progenies Haplotypes Viewer</a></li>
 
   </ul>
 </li>
