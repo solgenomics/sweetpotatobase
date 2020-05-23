@@ -1,5 +1,4 @@
 <li class="dropdown"><a class="menu_click_dropdown dropdown-toggle" data-toggle="dropdown">About</a>
-<!-- <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">About Us<span class="caret"></span></a> -->
   <ul class="dropdown-menu">
     <li class="dropdown-header">Links</li>
     <li><a href="https://sweetpotatogenomics.cals.ncsu.edu/">GT4SP Website</a></li>
@@ -7,13 +6,21 @@
     <li><a href="https://sweetpotatogenomics.cals.ncsu.edu/about/">About GT4SP Project</a></li>
 
     <li role="separator" class="divider"></li>
+    
     <li class="dropdown-header">Resources</li>
     <li><a href="/contact/form">Contact Us</a></li>
     <li><a href="https://solgenomics.github.io/sgn/" class="footer">Manual</a></li>
+    <li><a href="https://www.youtube.com/channel/UC3jrvvzGKKEHzOriDBgnj0A" target="_blank">Video Tutorials</a></li>	
+
+    <li role="separator" class="divider"></li>
+    
     <li><a href="/help/index.pl">Help (Cassavabase)</a></li>
     <li><a href="/forum/topics.pl">Forum</a></li>
     <li><a href="/help/faq.pl">FAQ</a></li>
     <li><a href="ftp://ftp.sweetpotatobase.org/">FTP site</a></li>
+
+    <li role="separator" class="divider"></li>
+
     <li><a href="https://gt4sp-genetic-map.shinyapps.io/bt_map/">Interactive BT Map</a></li>
     <li><a href="https://gt4sp-genetic-map.shinyapps.io/offspring_haplotype_BT_population/">BT Progenies Haplotypes Viewer</a></li>
 
