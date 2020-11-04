@@ -12,8 +12,13 @@
 
       <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
 				<center>
-        	SweetPotatoBase is located at the <a href="http://bti.cornell.edu/" class="footer" >Boyce Thompson Institute  for Plant Research</a> and is part of the <a href="http://sweetpotatogenomics.cals.ncsu.edu">GT4SP</a> project.
+        			  SweetPotatoBase is located at the <a href="http://btiscience.org/" class="footer" >Boyce Thompson Institute for Plant Research</a> established as part of the <a href="http://sweetpotatogenomics.cals.ncsu.edu">GT4SP</a> and SweetGAINS projects.
+				  
 				</center>
+				<div style="float:right">
+				  <a href="https://btiscience.org" target="_top"><img src="/img/bti_logo_2016.png" width="120"/></a>
+				</div>
+				
 			</div>
 
       <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
