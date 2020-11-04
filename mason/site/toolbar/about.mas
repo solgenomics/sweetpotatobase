@@ -1,6 +1,8 @@
 <li class="dropdown"><a class="menu_click_dropdown dropdown-toggle" data-toggle="dropdown">About</a>
   <ul class="dropdown-menu">
     <li class="dropdown-header">Links</li>
+    <li><a href="https://cgspace.cgiar.org/bitstream/handle/10568/106838/1405-BMGF%20pp_sweetgains_africa.pdf?sequence=3&isAllowed=y">SweetGAINS project</a></li>
+    <li><a href="https://cgspace.cgiar.org/handle/10568/109605">SweetGAINS SOP</a></li>
     <li><a href="https://sweetpotatogenomics.cals.ncsu.edu/">GT4SP Website</a></li>
     <li><a href="https://twitter.com/TeamGT4SP">GT4SP Twitter</a></li>
     <li><a href="https://sweetpotatogenomics.cals.ncsu.edu/about/">About GT4SP Project</a></li>
