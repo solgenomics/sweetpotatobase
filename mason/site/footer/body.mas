@@ -8,8 +8,10 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-      </div>
+            <br /><br />
+      <a href="https://brapi.org/"><img src="/documents/img/brapi-logo.svg" width="80" /></a>
 
+      </div>
       <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
 				<center>
         			  SweetPotatoBase is located at the <a href="http://btiscience.org/" class="footer" >Boyce Thompson Institute for Plant Research</a> established as part of the <a href="http://sweetpotatogenomics.cals.ncsu.edu">GT4SP</a> and SweetGAINS projects.
