@@ -18,7 +18,11 @@
 	<span>
 	  <a href="https://brapi.org/" target="_new" title="BrAPI compliant" ><img src="/documents/img/brapi-logo.svg" width="80" style="margin-left:60px" /></a>
 	</span>
+	<span>
+	  <a href="https://rtbbreeding.org" target="_new" title="CGIAR RTB Breeding"><img src="/documents/img/2024-RTB-Breeding-logo.png" style="margin-left:60px" width="120" /></a>
+	</span>
       </div>
+	
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 	<div style="margin-left:120px">
           SweetPotatoBase is hosted at the <a href="http://btiscience.org/" class="footer" >Boyce Thompson Institute for Plant Research</a> established as part of the <a href="http://sweetpotatogenomics.cals.ncsu.edu">GT4SP</a> and SweetGAINS projects.
